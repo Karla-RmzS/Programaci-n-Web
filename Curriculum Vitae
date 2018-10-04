@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>CURRICULUM KARLA</title>
+	</head>
+	<body>
+		<h1>CURRICULUM VITAE</h1>
+		<h2>Karla Ramírez Salvatierra</h2>
+		<p>Ingeniero en Computación</p>
+
+		<h3>Dirección:</h3>
+		<p>Macedonio Alcala Mza: 16 Lt:4 Fracc.Rancho Aguayo, Santa Cruz Xoxocotlan.</p>
+
+		<h3>Teléfono:</h3>
+		<p>5172627</p>
+
+		<h3>Email:</h3>
+		<p>kaarlii9819@gmail.com</p>
+
+		<h3>------------------HABILIDADES------------------</h3>
+		<ul>
+			<li>Ordenada</li>
+			<li>Trabajo en equipo</li>
+			<li>Colaborativa</li>
+		</ul>
+
+		<h3>------------------CONOCIMIENTO------------------</h3>
+		<ul>
+			<li>Paqueteria de office</li>
+			<li>Lenguaje c,c++ y java</li>
+			<li>Nivel de ingles: Bajo</li>
+		</ul>
+
+		<h3>------------------ESTUDIOS------------------</h3>
+		<ul>
+			<li>NIVEL: Secundaria
+				AÑO: 2010 - 2013</br>
+				INSTITUCION: Escuela Secundaria Tecnica N° 6 </br>
+				CIUDAD: Oaxaca de Juarez
+			</li>
+			<li>NIVEL: Bachillerato
+				AÑO: 2013 - 2016</br>
+			  INSTITUCION: COBAO Plantel 32 </br>
+			  CIUDAD: Oaxaca de Juarez
+			</li>
+			<li>NIVEL: Universitario
+				AÑO: 2016 - a la fecha</br>
+				  INSTITUCION: Universidad Tecnologica de la Mixteca</br>
+				  CIUDAD: Oaxaca de Juarez
+			</li>
+		</ul>
+
+		<h3>------------------EXPERIENCIA LABORAL------------------</h3>
+		<ul>
+			<li> DIF Estatal</br>
+				PUESTO: Vendedora</br>
+				De 01/julio/2018 a 31/julio/2018 </br>
+				CIUDAD: Oaxaca de Juarez</br>
+				Tareas realizadas: Realizar inventario de los productos que llegaban
+				asi como también de lo que se quedaba en el local, relizar la venta
+				de los productos.
+			</li>
+			</li>
+		</ul>
+
+	</body>
+</html>
