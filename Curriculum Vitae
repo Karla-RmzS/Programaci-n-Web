@@ -3,21 +3,23 @@
 <html>
 	<head>
 		<title>CURRICULUM KARLA</title>
+		<meta charset='UTF-8/'>
+		<link rel='stylesheet' href='estilos.css'/>
 	</head>
 	<body>
-		<h1>CURRICULUM VITAE</h1>
+		<strong><h1>CURRICULUM VITAE</h1></strong>
 		<h2>Karla Ramírez Salvatierra</h2>
 		<p>Ingeniero en Computación</p>
 
 		<h3>Dirección:</h3>
-		<p>Macedonio Alcala Mza: 16 Lt:4 Fracc.Rancho Aguayo, Santa Cruz Xoxocotlan.</p>
+		<p>Macedonio Alcala Mza: 16 Lt:4 Fracc.Rancho Aguayo, Santa Cruz Xoxocotlán.</p>
 
 		<h3>Teléfono:</h3>
 		<p>5172627</p>
 
 		<h3>Email:</h3>
 		<p>kaarlii9819@gmail.com</p>
-		<p><em><a href='actividades.html'>ACTIVIDADES</a></em></p>
+		<a class='button' href='actividades.html'>ACTIVIDADES</a>
 
 		<h3>------------------HABILIDADES------------------</h3>
 		<ul>
