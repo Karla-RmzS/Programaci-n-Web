@@ -3,6 +3,8 @@
 <html>
 	<head>
 		<title>ACTIVIDADES</title>
+		<meta charset='UTF-8/'>
+		<link rel='stylesheet' href='estilos.css'/>
 	</head>
 	<body>
 		<h1>ACTIVIDADES</h1>
