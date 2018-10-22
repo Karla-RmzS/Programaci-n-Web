@@ -1,0 +1,60 @@
+body {
+  color: #0F235B; 
+  background-color: #DCB06E; 
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Consolas", "Arial", sans-serif;
+}
+
+h2{
+	font-style: italic;
+}
+
+h1,h3{
+	background-color: #F1E0B9;
+}
+
+strong{
+	background-color: #5B190F;
+}
+
+ul{
+	text-align: center;
+}
+
+h1{
+	padding: 40px;
+	border: 5px solid #5D6063;
+}
+
+p{
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 40px;
+}
+
+.button:link,
+.button:visited{
+	display: block;
+	text-decoration: none;
+
+	color: #FFF;
+	background-color: DarkSlateGray;
+	font-weight: bold;
+	padding: 20px;
+	text-align: center;
+
+	border: 4px solid #5D6063;
+	border-radius: 5px;
+	width: 200px;
+	box-sizing: border-box;
+	margin: 20px auto;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
